@@ -5,7 +5,7 @@
 
 *“The Walking Dead” is a story about people trying to survive after zombies take over the world. A man named Rick wakes up from a coma and finds everything destroyed. He meets other survivors and they work together to stay alive. They fight zombies, but the real danger often comes from other people. The show is about survival, trust, and how people change when the world falls apart.*
 
-## My favorite character in this series is Daryl Dixon
+## My favorite character in the whole series is Daryl Dixon
 ![Logo](Daryl.jpg)
 ### Some interesting facts about this character
 *Daryl is not in the original comics. He was made only for the TV show.
