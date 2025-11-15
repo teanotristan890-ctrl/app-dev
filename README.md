@@ -30,3 +30,5 @@ Norman Reedus, the actor who plays Daryl, loved the character so much that he co
 | 9      | Time skip                    | Whisperers            | New rules              |
 |10      | Whisperer War                | Whisperers            | Strength and unity     |
 |11      | Rebuilding                   | Commonwealth          | Hope for the future    |
+
+For more information visit the official website: [The Walking Dead](https://www.amc.com/shows/the-walking-dead--1002293)
