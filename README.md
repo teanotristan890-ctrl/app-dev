@@ -14,3 +14,19 @@ At first, he was angry and didn’t trust people, but he later became one of the
 His close bond with Carol is one of the strongest friendships in the series.
 He is known for being quiet, tough, and protective, especially of kids like Judith.
 Norman Reedus, the actor who plays Daryl, loved the character so much that he continued in his own spin-off series.*
+
+## Summary of The Walking Dead Seasons (1–11)
+
+| Season | Main Focus                   | Big Enemy/Group     | Key Idea              |
+|--------|-------------------------------|-----------------------|------------------------|
+| 1      | Rick wakes up and finds survivors | Walkers              | Learning to survive    |
+| 2      | Life on the farm             | Walkers               | Family and trust       |
+| 3      | Prison life                  | The Governor          | Safety vs danger       |
+| 4      | Prison falls                 | Walkers               | Staying together       |
+| 5      | Journey to Washington        | Terminus              | Hope and fear          |
+| 6      | Alexandria life              | Wolves                | Community struggles    |
+| 7      | Fighting back                | Negan & Saviors       | Power and control      |
+| 8      | All-out war                  | Negan                 | Freedom                |
+| 9      | Time skip                    | Whisperers            | New rules              |
+|10      | Whisperer War                | Whisperers            | Strength and unity     |
+|11      | Rebuilding                   | Commonwealth          | Hope for the future    |
